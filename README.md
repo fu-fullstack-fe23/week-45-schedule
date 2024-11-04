@@ -16,22 +16,25 @@ Denna andra kursveckatar vi med oss de kunskaper vi förskaffat oss inom TypeScr
 ## Resurser
 
 ### Presentationer
-* [28 okt, Kursintro](https://docs.google.com/presentation/d/1CcIgMH9BggKA2Jrs6e44mbNHVbEDLSL7/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* [28 okt, TypeScript Intro](https://docs.google.com/presentation/d/1h_AZq_HH-i8O63R87fyxknLDdIYXVRLR/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 
 ### Inspelade föreläsningar
 * [Interfaces med Christoffer](https://vimeo.com/780124978/077297b541)
 * [5 nov, TypeScript i React]()
 
+
 ### Lektionsrepon
-* [5 nov, TypeScript i React]()
+* [5 nov, TypeScript i React](https://github.com/fu-fullstack-fe23/week-45-lecture-react)
+
 
 ### Filmer
 * [TypeScript Tutorial for beginners](https://www.youtube.com/watch?v=d56mG7DezGs&t=1203s)
 
+
 ### Länkar
 * [State of Frontend](https://tsh.io/state-of-frontend/)
+* [Organisation - MU23Frontend](https://github.com/MU23FRONTEND)
+
 
 ### Övningar
 * [Barnboksdatabasen](https://github.com/fu-fullstack-fe23/week-45-exercise-childrens-books-db/tree/main)
