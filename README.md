@@ -25,6 +25,7 @@ Denna andra kursveckatar vi med oss de kunskaper vi förskaffat oss inom TypeScr
 
 ### Lektionsrepon
 * [5 nov, TypeScript i React](https://github.com/fu-fullstack-fe23/week-45-lecture-react)
+* [7 nov, Code Along Barnboksdatabasen](https://github.com/fu-fullstack-fe23/week-45-lecture-code-along)
 
 
 ### Filmer
