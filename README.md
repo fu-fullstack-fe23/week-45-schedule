@@ -20,7 +20,9 @@ Denna andra kursveckatar vi med oss de kunskaper vi förskaffat oss inom TypeScr
 
 ### Inspelade föreläsningar
 * [Interfaces med Christoffer](https://vimeo.com/780124978/077297b541)
-* [5 nov, TypeScript i React]()
+* [5 nov, TypeScript i React](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EYEAj7hEjYFEn5CaK3L2XZEBNcKL9POJf9FHu3E8XEGOyA?e=JHRhuM)
+* [7 nov, Code Along del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EV-t-BVHA9JBnGyWe-QdwWYBN-a42lBSMtYzs9Eck_qU_A?e=mDNfZj)
+* [7 nov, Code Along del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EQo8VIDdkDBAmPiPmUZ7R94BNtoVT39wkbP7DBw6TKH95A?e=ch1sxq)
 
 
 ### Lektionsrepon
